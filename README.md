@@ -1,3 +1,4 @@
+![logo](https://github.com/ayushrajofficial/Ayush-Raj/blob/main/README.md)
 <h1 align="center">Hi 👋, I'm Ayush Raj</h1>
 <h3 align="center">Hi! I'm Ayush Raj , a B.Tech CSE student at UPES, DEHRADUN. I am diving into the exciting world of AIML. My focus is on AI and ML, Cloud Computing , Web Dev.</h3>
 
